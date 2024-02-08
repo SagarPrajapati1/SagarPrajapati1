@@ -9,6 +9,7 @@
 - Gmail sagarprajapatibhai@gmail.com
 - Twitter https://twitter.com/SPrajapati38128
 - Leetcode https://leetcode.com/sagar_789/
+- GeeksforGeeks https://auth.geeksforgeeks.org/user/sagar_789
 
 <!---
 SagarPrajapati1/SagarPrajapati1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
