@@ -1,4 +1,4 @@
--[logo](banner.png)
+![logo](banner.png)
 - 👋 Hi, I’m @SagarPrajapati1
 - 👀 I’m interested in doing FullStack Web Development using MERN stack.
 - 🌱 Problem Solving is another interesting thing that I am doing. 
