@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SagarPrajapati1
-- 👀 I’m interested in doing FullStack Web Development using MERN stack, Problem-Solving 
+- 👀 I’m interested in doing FullStack Web Development using MERN stack.
+- 🌱 Problem Solving is another interesting thing that I am doing. 
 - 🌱 I’m currently learning Front-end development and Cloud Computing
 - 💞️ I’m looking to collaborate on open-source contributions in front-end development
 - 📫 You can connect with me on LinkedIn and can direct mail me to my Gmail
